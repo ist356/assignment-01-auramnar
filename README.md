@@ -35,6 +35,11 @@ Install the assignemnt python requirements:
 1. From VS Code, open a terminal: Menu => Terminal => New Terminal
 2. In the terminal, type and enter: `uv pip install -r requirements.txt`
 3. Note: `uv pip install --system -r requirements.txt`. Add system if you get an error with your install
+4. #### I am writing stuff
+
+
+
+
 
 
 ### Running Tests
