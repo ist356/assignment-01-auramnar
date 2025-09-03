@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SWuRbOmc)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SWuRuvbOmc)
 # IST356 Assignment 01 (assignment_01)
 
 ## Meta
@@ -10,7 +10,7 @@ This assignment is more about how to complete an assignment in this course than 
 1. run and debug code in the VS Code editor
 2. run python tests to verify your code is correct using pytest and the VS Code activity bar
 3. install assignment dependencies using `requirements.txt`
-4. edit your reflection, requred as part of your assignment submission
+4. edit your reflection, required as part of your assignment submission
 5. submit your assignment using git
 TODO ???
 
