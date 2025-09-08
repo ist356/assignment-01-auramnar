@@ -21,7 +21,7 @@ The each assignment will have a common layout.
 - `code` folder contains our code / application. This is where you will create files and write code.
 - `code/solution` folder contains the solution to the assignment, for reference.
 - `tests` folder contains code to test our application
-- `requirements.txt` contains the packages we need to `pip install` to execute the application code
+- `requirements.txt` contains the packages we need to `uv pip install` to execute the application code
 - `readme.md` contains these instructions
 - `.vscode` folder contains VS Code setup configurations for running / debugging the application and tests.
 -  `reflection.md` is where you submit your reflection, comments on what you learned, things that confuse you, etc.
